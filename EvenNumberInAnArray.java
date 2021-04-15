@@ -1,5 +1,5 @@
 import java.util.*;
-public Class EvenNumbers{
+public Class  EvenNumberInAnArray{
 	public static void main(String[] args)
 	{
 	
